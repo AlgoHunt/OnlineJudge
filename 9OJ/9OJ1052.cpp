@@ -18,7 +18,6 @@ while(cin>>n){
     if(pos==v.end()) {cout<<"-1"<<endl;continue;}
     cout<<distance(v.begin(),pos)<<endl;
 
-
 }
 
 return 0;
